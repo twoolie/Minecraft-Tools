@@ -1,0 +1,4 @@
+numpy
+PyQT
+path.py
+pyyaml
